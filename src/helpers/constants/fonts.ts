@@ -1,0 +1,12 @@
+export const FONT_HL = "52px";
+export const FONT_HM = "45px";
+export const FONT_HS = "30px";
+export const FONT_TL = "28px";
+export const FONT_TM = "22px";
+export const FONT_TS = "20px";
+export const FONT_LL = "18px";
+export const FONT_LM = "16px";
+export const FONT_LS = "14px";
+export const FONT_CL = "12px";
+export const FONT_CM = "10px";
+export const FONT_CS = "8px";

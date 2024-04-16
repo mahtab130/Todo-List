@@ -1,0 +1,10 @@
+export const COLOR_BLUE = "#2196f3";
+export const COLOR_PURPLE = "#9c27b0";
+export const COLOR_ORANGE = "#ff6d00";
+export const COLOR_BLUE_GREY = "#607d8b";
+export const COLOR_GREY_DARKEN = "#212121";
+export const COLOR_TEAL_DARKEN = "#004d40";
+export const COLOR_GREEN_ACCENT = "#00e676";
+export const COLOR_PURPLE_ACCENT = "#d500f9";
+export const COLOR_BLUE_GREY_DARKEN = "#263238";
+export const COLOR_BLUE_GREY_LIGHTEN = "#eceff1";
